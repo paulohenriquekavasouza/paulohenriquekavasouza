@@ -18,4 +18,4 @@ Currently, improving my skills with Angular and learning so much more about the 
 
 ### You can find me here aswell 🌎
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-[https://www.linkedin.com/in/paulo-henrique-kava-de-souza-49a3091a6/](https://www.linkedin.com/in/paulo-henrique-kava-de-souza/)
+https://www.linkedin.com/in/paulo-henrique-kava-de-souza/
