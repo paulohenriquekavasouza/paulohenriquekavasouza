@@ -2,20 +2,18 @@
 
 ### Hey, I'm Paulo Henrique! I'm based in Curitiba, Brazil. 🇧🇷
 
-Since 2020, I work as Angular front-end developer. Since then I've learned so many new and exciting things about this world. Everyday I breath TypeScript.
+I am a Senior Angular Front-end Developer with experience in full-stack and mobile development. Since 2020, I have been deeply engaged in the TypeScript ecosystem, continuously evolving my skills in modern web architecture.
 
-I serve as the lead of our development team, where I have the unique opportunity to guide and support the team throughout the entire development process. This role encompasses critical responsibilities to ensure our team performs at its highest potential.  
+As a Development Team Lead, I guide and support my team throughout the entire software development lifecycle. My responsibilities include technical leadership, thorough code reviews, pull request management, and ensuring high-quality deliveries within strict deadlines. I foster a collaborative environment focused on performance optimization, robust state management, and architectural best practices.
 
-My tasks include closely monitoring the team's work, providing valuable guidance, and maintaining consistent quality standards. This involves thorough code reviews, efficient pull request management, and coordinating task deliveries within set deadlines. My approach emphasizes constructive collaboration and a unified work environment.  
-
-A key part of my role involves translating meticulously designed prototypes from the Product Owner (PO) into functional solutions. I develop application interfaces tailored to the specific needs of dental healthcare and general clinics. My technical expertise centers on the latest Angular versions, including Angular 15 and Angular Material, along with seamless integration of these solutions into the Azure DevOps platform for continuous delivery and effective collaboration.  
-
-To track progress and ensure alignment with project goals, I actively participate in daily team meetings. These meetings serve as a platform to discuss prototype-related key points and provide regular updates on task status. Through this continuous alignment, we keep the team focused and committed to achieving our objectives and deliverables.
+A key part of my role involves translating complex requirements into functional, scalable solutions. Currently, I am focused on the development of CLINIX, building sophisticated interfaces, WebSocket notification systems, and complex UI components tailored for healthcare and dental clinics. My technical stack centers on modern Angular versions, leveraging features like Signals, MDC components, and Angular Material, with seamless integration into Azure DevOps for continuous delivery.
 
 ### What I've been working on 🖥️
 
-Currently, improving my skills with Angular and learning so much more about the framework and its power. 💥
+- Leading front-end architecture, modernizing platforms, and implementing micro front-ends.
+- Developing CLINIX, focusing on complex UI/UX and scalable clinic management solutions.
+- Building PowerGit, a VS Code extension to enhance Git blame and visual history workflows.
+- Exploring advanced Angular performance optimization and modern state management.
 
 ### You can find me here aswell 🌎
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-https://www.linkedin.com/in/paulo-henrique-kava-de-souza/
+<a href="https://www.linkedin.com/in/paulo-henrique-kava-de-souza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
