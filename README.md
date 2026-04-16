@@ -2,11 +2,11 @@
 
 ### Hey, I'm Paulo Henrique! I'm based in Curitiba, Brazil. 🇧🇷
 
-I am a Senior Angular Front-end Developer with experience in full-stack and mobile development. Since 2020, I have been deeply engaged in the TypeScript ecosystem, continuously evolving my skills in modern web architecture.
+I'm a Senior Angular Front-end Developer with experience in full-stack. Since 2020, I have been deeply engaged in the TypeScript ecosystem, continuously evolving my skills in modern web architecture.
 
 As a Development Team Lead, I guide and support my team throughout the entire software development lifecycle. My responsibilities include technical leadership, thorough code reviews, pull request management, and ensuring high-quality deliveries within strict deadlines. I foster a collaborative environment focused on performance optimization, robust state management, and architectural best practices.
 
-A key part of my role involves translating complex requirements into functional, scalable solutions. Currently, I am focused on the development of CLINIX, building sophisticated interfaces, WebSocket notification systems, and complex UI components tailored for healthcare and dental clinics. My technical stack centers on modern Angular versions, leveraging features like Signals, MDC components, and Angular Material, with seamless integration into Azure DevOps for continuous delivery.
+A key part of my role involves translating complex requirements into functional, scalable solutions. Currently, I am focused on the development of CLINIX, building sophisticated interfaces, WebSocket notification systems, and complex UI components tailored for healthcare and dental clinics. My technical stack centers on modern Angular versions, MDC components, and Angular Material, with seamless integration into Azure DevOps for continuous delivery.
 
 ### What I've been working on 🖥️
 
