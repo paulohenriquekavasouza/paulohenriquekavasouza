@@ -12,7 +12,6 @@ A key part of my role involves translating complex requirements into functional,
 
 - Leading front-end architecture, modernizing platforms.
 - Developing CLINIX, focusing on complex UI/UX and scalable clinic management solutions.
-- Building PowerGit, a VS Code extension to enhance Git blame and visual history workflows.
 - Exploring advanced Angular performance optimization and modern state management.
 
 ### You can find me here aswell 🌎
